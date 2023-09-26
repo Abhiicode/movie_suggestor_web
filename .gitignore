@@ -1,0 +1,73 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node.js and npm/Yarn Dependencies
+node_modules/
+yarn-error.log
+package-lock.json
+
+# Compiled Output and Build Artifacts
+dist/
+build/
+*.log
+
+# IDE/Editor Files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.sln
+
+# Temporary Files
+.*.swp
+*.swp
+.*.swo
+*.swo
+
+# Environment-Specific Configuration
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Compiled Code and Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs and Debug Output
+logs/
+debug.log
+
+# User Uploads and Generated Files
+uploads/
+generated/
+
+# IDE/Editor Configuration
+.editorconfig
+.eslintrc
+.prettierr
